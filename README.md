@@ -33,4 +33,5 @@ game.
 # Playing to Tic-Tac-Toe game :
 Now user can try our game and play the famous Tic-Tac-Toe game. It is user friendly like a child can easily understand and play the game.
 
-https://github.com/AdityaRaj2025/Tic-Tac-Toe-AndroidApp-Game/issues/1#issue-623853084
+![TikTokToi](https://user-images.githubusercontent.com/38121656/82753841-9cfbad80-9de6-11ea-9b82-5cc0c5cebb52.png)
+
